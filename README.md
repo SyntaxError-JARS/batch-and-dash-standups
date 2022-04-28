@@ -1,1 +1,1 @@
-# batch-and-dash-standups
+Repo for daily standups
