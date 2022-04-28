@@ -8,4 +8,4 @@ Charles - Still figuring out. Has Linux system and experiencing problems install
 
 Rodney - Missed yesterday's lecture. Need to catch up. Will create algorithm for project. 
 
-Jerry - Tried to understand database fundamentals and SQL. Tried to create the schema for project. Still need to figure out fields in each table.
+Jerry - Tried to understand database fundamentals and SQL. Tried to create the schema for project. Still need to figure out fields and foreign keys in each table.
