@@ -1,0 +1,42 @@
+Team : Batch and Dash 
+Date : 05/11/2022
+
+Subject: Standup  
+Place :  Zoom online meeting
+
+Minutes of meeting taken by Asrat
+
+Ryan- 
+       - Setting up a framework for the p0 project 
+       - Moving to implementation for p0 project. 
+       - Need assistance for some tools installation  
+
+Charles - 
+
+      - Created table for his database fro p0 project 
+      - Encountered issues on creating a table 
+      - Looking for how to debug it.
+      - Ay, provide a solution for Charles on how to debug using a SQL command -"Alter". 
+      - Also added as we need to cooperate and share ideas. 
+      - To stretch out our-self more as we are expected to work as a team in a future.
+
+Ay - 
+     - Commented on time management 
+     - To focus on achieving our project zero within the timeframe.
+     - Provide ideas to keep on working on our project 
+     - To ask and share each other as we encountered issues. 
+
+Rodney- 
+
+     - Commented on drawing a diagram for p0 project to better see how data flows 
+     - To design on a paper first parallel to the implementation of the p0 project
+     - Also he mentioned about dependencies of tool like SQL, Java, Servelet etc.
+
+Asrat - 
+
+    - Commented on time management
+    - He mentioned his p0 work progress
+    - To share ideas and support one another
+    - To focus on p0 project and need to push forward. 
+
+ 
