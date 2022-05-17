@@ -1,0 +1,16 @@
+5/17/2022 -
+Stand-Up Notes for Batch and Dash
+
+Asrat:
+Implemented code for customer and account tables, everything working fine. Implemented login/logout functionality. Still working on despoit and 
+withdrawal. 
+
+Ay:
+Working towards implementation the balance and withdrawal/deposit functionality. Impressed by Asrat creating login/logout functionality. 
+
+Charles:
+Points out Maindriver gives us everything we need, feels confident to deliver a functional program on Thursday.
+
+Ryan:
+Glad he finally got a >=70% on a quiz.
+Goal for today is to finish services and dao logic and begin work on servlets. Needs to work around menu and models and i
