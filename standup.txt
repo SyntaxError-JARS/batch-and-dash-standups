@@ -1,0 +1,13 @@
+Stand up  for Bash and Dash group: 05/20/2022
+
+ we started by talking about the project1 that should meet the mvp and much more than what is requiered,
+ two week is short time so we should work on it daily and trying to implement everything we were provided.
+ furthermore, we start create our repositories on monday and go through the requiement and see how much readying we need to do. 
+As far as JS, we should keep up learining so what we will be provided to be able to implement it in our project, also we made sure to 
+manage our time properly because we have a lot to do.
+ Also we should practice on documentations useing technical terms and learn how to use it in our projects
+ and also within our stand up. in this phase we are feeling to we are changing to professional devloper 
+so we need to catch up and project one is our base for standing out and using what we have learened, 
+some of our member still trying to have better understanding about project0 to use the knowledage over there in our project1.
+
+
