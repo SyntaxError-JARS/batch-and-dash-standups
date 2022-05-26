@@ -39,4 +39,9 @@ Asrat -
     - To share ideas and support one another
     - To focus on p0 project and need to push forward. 
 
+Jerry - 
+
+    - Learned to deploy simple servlets to Tomcat.
+    - Need to figure out how to create complex servlets with functionalities such as user input and mathematical calculations
+
  
