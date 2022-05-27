@@ -1,0 +1,18 @@
+standup for May 24, 2022
+
+Charles Whitney and Rodney Lewis
+
+restaurant app, currently building database.  Reviewing p1 resources to maintain alignment with stated user stories.  Trying to make sure to keep up with assignments and studying.  Built 
+Front-end and API repoes.
+
+
+Asrat Minase and Ay Sebirka
+
+completed planning phase: define what is "done".  Pushed into repo.  Worked on creating java code for API.  Studied Hibernate for use later.  Used p0 examples as model for restructuring API.  
+Priority is Back-end development.
+
+
+Trung Nguyen and Jerry Jacob
+
+Created repo for p1.  research on Hibernate.  Waiting on lecture to begin planning process.
+

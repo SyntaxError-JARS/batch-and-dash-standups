@@ -1,0 +1,32 @@
+Team : Batch and Dash 
+Date : 05/25/2022
+
+Subject: Stand-up  
+Place :  Zoom online meeting
+
+Minutes of meeting taken by Asrat
+
+
+Asrat and Ay 
+
+- Created repository for project 1
+
+   -Aroma_API_ASAM 
+   -Aroma_FE_ASAM
+
+- Started java code for CRUD operation 
+- Pushed completed work to GitHub 
+- Searched some stuff on Hibernation
+
+Jerry and Trung 
+
+-Created repository for project 1
+
+   - nameOfRestaurant_API_JJTN
+
+- created branch for both team member 
+- Downloaded and run pokedex project to test it on postman.
+- planned to perform the sql script for project 1 
+
+
+ 
