@@ -1,0 +1,4 @@
+We started talking about the progress in our projects but most of us didn't have time to work on it yesterday due to being busy working on the React mini project. 
+We were happy about how powerful React is and how fun to have some experience with it .
+Unfortunately, some of us couldn't launch our React properly as we wanted, however we are encouraged to work on it more later on today maybe be able to fix the
+bugs and have our first React project launched as expected.
