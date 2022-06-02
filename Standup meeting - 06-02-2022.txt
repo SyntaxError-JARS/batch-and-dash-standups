@@ -1,0 +1,25 @@
+Team : Batch and Dash 
+Date : 06/2/2022
+
+Subject: Stand-up  
+Place :  Zoom online meeting
+
+Minutes of meeting taken by Asrat
+
+Jerry 
+
+- Implemented half of the end points of project p1
+
+- Has low time to implement the project
+
+ - Started on front-end development and In parallel working on the back-end of project 1. 
+
+Ay and Asrat
+ 
+  - At the beginning of the project one encountered a problem on overriding of the CRUD for credit card, menu and order class.
+
+ - Issues where resolved after meeting with Mr. Charles Jester(Trainer).
+
+ - Around 80% of the CURD system and other requirement has been completed
+
+ - Front-end development was in progress as well as the back-end
