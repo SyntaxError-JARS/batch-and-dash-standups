@@ -1,0 +1,20 @@
+Group Memebers 
+
+- Geoffrey Blois
+- Jerry Jacob
+- Asrat Minase
+- Ay Sebrika
+
+
+What was Said:
+
+Geoffrey Blois: Suggesting a new name called FRITTE for our application name. Agrees with every memeber on what they said. Think we need to start making the skelton of our react 
+app and labelling our tables with forign keys and primary keys.
+
+Jerry Jacob: Agrees with what Asrat and Ay has said. Waiting till Thursday to understand the api as we should have everything about Spring. 
+
+Asrat Minase: Looked up on atlassian to understand the platform. We need to go over the tables and go over what each table has a forign key and primary key. 
+Make a diagram for the tables so we understand the relation ships between each table. Wants to start the front end right away.
+
+Ay Sebrika: We complete our first of our jorney so we now can start assigning people user stories and we can start on our api. Wants to get api done by saturday.
+Wants to create a calander to meet and have meetings that last about two hours to make sure everyone is on the same page. Wants to make sure each team member has the support they need.
